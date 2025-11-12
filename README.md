@@ -22,6 +22,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - Ingresar los datos necesarios en el archivo 'database.py'
 - Librerías necesarias:
 
-* pip install psycopg2-binary
-* pip install ttkbootstrap
-* pip install pillow
+    * pip install psycopg2-binary
+    * pip install ttkbootstrap
+    * pip install pillow
+    * pip install tkinter
